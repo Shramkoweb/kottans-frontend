@@ -6,3 +6,9 @@
 [Git Basics screenshot](0/classroom.udacity.com_courses_ud775.png)
 
 ---
+
+## 3.Intro to HTML & CSS
+
+[HTML Academy](3/htmlacademy.ru_courses.png)
+
+---
