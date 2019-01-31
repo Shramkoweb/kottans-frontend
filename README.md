@@ -7,6 +7,12 @@
 
 ---
 
+## 1.Linux, Command Line, HTTP Tools
+
+[Command Line](1/command-line.png)
+
+---
+
 ## 3.Intro to HTML & CSS
 
 [HTML Academy](3/htmlacademy.ru_courses.png)
