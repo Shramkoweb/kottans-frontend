@@ -3,18 +3,18 @@
 
 ## 0.Git Basics
 
-[Git Basics screenshot](0/classroom.udacity.com_courses_ud775.png)
+![Git Basics screenshot](0/classroom.udacity.com_courses_ud775.png)
 
 ---
 
 ## 1.Linux, Command Line, HTTP Tools
 
-[Command Line](1/command-line.png)
+![Command Line](1/command-line.png)
 
 ---
 
 ## 3.Intro to HTML & CSS
 
-[HTML Academy](3/htmlacademy.ru_courses.png)
+![HTML Academy](3/htmlacademy.ru_courses.png)
 
 ---
