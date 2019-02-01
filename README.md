@@ -18,3 +18,9 @@
 ![HTML Academy](3/htmlacademy.ru_courses.png)
 
 ---
+
+## 4.Responsive Web Design
+
+![Flexbox Froggy](4/flexboxgroggy.png)
+
+---
