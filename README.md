@@ -21,6 +21,6 @@
 
 ## 4.Responsive Web Design
 
-![Flexbox Froggy](4/flexboxgroggy.png)
+![Flexbox Froggy](4/flexboxfroggy.png)
 
 ---
