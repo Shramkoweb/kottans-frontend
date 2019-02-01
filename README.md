@@ -1,5 +1,4 @@
 # kottans-frontend  :smile_cat:
-# General Basics
 
 ## 0.Git Basics
 
