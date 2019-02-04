@@ -12,6 +12,12 @@
 
 ---
 
+## 2.Git for Team Collaboration
+
+![What is Version Control](2/What_is_Version_Control.png)
+
+---
+
 ## 3.Intro to HTML & CSS
 
 ![HTML Academy](3/htmlacademy.ru_courses.png)
