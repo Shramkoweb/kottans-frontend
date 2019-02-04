@@ -23,3 +23,13 @@
 ![Flexbox Froggy](4/flexboxfroggy.png)
 
 ---
+
+## 4.HTML & CSS Practice
+
+[Demo](https://shramkoweb.github.io/html/)
+
+[Code base](https://github.com/Shramkoweb/html)
+
+Checked my code in validator & BEM html tree
+
+---
