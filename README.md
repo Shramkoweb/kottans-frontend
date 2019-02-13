@@ -15,7 +15,7 @@
 ## 2.Git for Team Collaboration
 
 ![What is Version Control](2/What_is_Version_Control.png)
-
+![GitHub & Collaboration](2/GitHub&Collaboration.png)
 ---
 
 ## 3.Intro to HTML & CSS
