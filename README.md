@@ -20,6 +20,8 @@
 
 ## 3.Intro to HTML & CSS
 
+![Intro to HTML & CSS](3/Intro_to_HTML&CSS.png) 
+
 ![HTML Academy](3/htmlacademy.ru_courses.png)
 
 ---
