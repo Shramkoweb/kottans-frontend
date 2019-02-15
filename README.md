@@ -11,7 +11,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 ### Front-End Basics
 
 - [x] Intro to HTML & CSS [screenshot](./3/Intro_to_HTML&CSS.png "udacity.com - Intro to HTML and CSS") [screenshot](./3/htmlacademy.ru_courses.png "htmlacademy.ru - HTML and CSS basics")
-- [ ] Responsive Web Design [screenshot](./4/flexboxfroggy.png "flexboxfroggy.com - Game for learning CSS flexbox")
+- [x] Responsive Web Design [screenshot](./4/ResponsiveWebDesignFundamentals.png "udacity.com - udacity.com - Intro to HTML and CSS") [screenshot](./4/flexboxfroggy.png "flexboxfroggy.com - Game for learning CSS flexbox")
 - [x] HTLM & CSS Practice [My Google-style Popup](https://github.com/Shramkoweb/html "No JavaScript, only HTML/CSS")
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
