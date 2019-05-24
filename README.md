@@ -4,15 +4,24 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 ### General Basics
 
-- [x] Git Basics [screenshot](./0/classroom.udacity.com_courses_ud775.png "udacity.com - How to use Git and GitHub")
-- [x] Linux CLI and Networking [screenshot](./1/command-line.png "codecademy.com - Learn the Commant Line")
-- [x] VCS (hello gitty), GitHub and Collaboration [screenshot](./2/What_is_Version_Control.png "udacity.com - Version Control with Git") [screenshot](./2/GitHub&Collaboration.png "udacity.com - GitHub and Collaboration")
+- [x] Git Basics
+[screenshot](./0/classroom.udacity.com_courses_ud775.png "udacity.com - How to use Git and GitHub")
+- [x] Linux CLI and Networking
+[screenshot](./1/command-line.png "codecademy.com - Learn the Commant Line")
+- [x] VCS (hello gitty), GitHub and Collaboration
+[screenshot](./2/What_is_Version_Control.png "udacity.com - Version Control with Git")
+[screenshot](./2/GitHub&Collaboration.png "udacity.com - GitHub and Collaboration")
 
 ### Front-End Basics
 
-- [x] Intro to HTML & CSS [screenshot](./3/Intro_to_HTML&CSS.png "udacity.com - Intro to HTML and CSS") [screenshot](./3/htmlacademy.ru_courses.png "htmlacademy.ru - HTML and CSS basics")
-- [x] Responsive Web Design [screenshot](./4/ResponsiveWebDesignFundamentals.png "udacity.com - udacity.com - Intro to HTML and CSS") [screenshot](./4/flexboxfroggy.png "flexboxfroggy.com - Game for learning CSS flexbox")
-- [x] HTLM & CSS Practice [My Google-style Popup](https://github.com/Shramkoweb/html "No JavaScript, only HTML/CSS")
+- [x] Intro to HTML & CSS
+[screenshot](./3/Intro_to_HTML&CSS.png "udacity.com - Intro to HTML and CSS")
+[screenshot](./3/htmlacademy.ru_courses.png "htmlacademy.ru - HTML and CSS basics")
+- [x] Responsive Web Design
+[screenshot](./4/ResponsiveWebDesignFundamentals.png "udacity.com - udacity.com - Intro to HTML and CSS")
+[screenshot](./4/flexboxfroggy.png "flexboxfroggy.com - Game for learning CSS flexbox")
+- [x] HTLM & CSS Practice 
+[My Google-style Popup](https://github.com/Shramkoweb/html "No JavaScript, only HTML/CSS")
 - [ ] JavaScript Basics
 [freecodecamp.org](./5/learn.freecodecamp.org_.png "freecodecamp.org - Basic JavaScript")
 [udacity.com](./5/classroom.udacity.com_courses_ud803.png "udacity.com - Intro to JavaScript")
