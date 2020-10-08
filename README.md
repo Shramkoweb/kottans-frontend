@@ -34,7 +34,9 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 ### Advanced Topics
 
-- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [x] Building a Tiny JS World (pre-OOP) - practice
+    - [demo page](https://shramkoweb.github.io/a-tiny-JS-world/)
+    - [source code](https://github.com/Shramkoweb/a-tiny-JS-world/blob/master/index.js)
 - [ ] Object oriented JS - practice
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications
