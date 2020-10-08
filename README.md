@@ -25,7 +25,10 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 - [x] JavaScript Basics
     - [Basic JavaScript](./5/learn.freecodecamp.org_.png "freecodecamp.org - Basic JavaScript")
     - [Intro to JavaScript](./5/classroom.udacity.com_courses_ud803.png "udacity.com - Intro to JavaScript")
-- [ ] Document Object Model - practice
+- [x] Document Object Model
+    - Practice 
+        - [demo page](https://shramkoweb.github.io/kottans-dom/)
+        - [source code](https://github.com/Shramkoweb/kottans-dom)
     - [Udacity DOM Course](./7/udacity_DOM.png "Udacity DOM Course")
     - [Intermediate Algorithm Scripting](./7/www.freecodecamp.org_learn.png "Intermediate Algorithm Scripting")
 
