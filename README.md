@@ -37,7 +37,9 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 - [x] Building a Tiny JS World (pre-OOP) - practice
     - [demo page](https://shramkoweb.github.io/a-tiny-JS-world/)
     - [source code](https://github.com/Shramkoweb/a-tiny-JS-world/blob/master/index.js)
-- [ ] Object oriented JS - practice
+- [x] Object oriented JS - practice
+    - [codewars profile](https://www.codewars.com/users/Shramkoweb)
+    - [Object Oriented JS](./9/classroom.udacity.com_courses_ud015.png)
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications
 - [ ] Memory pair game — real project!
