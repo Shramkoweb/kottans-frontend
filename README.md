@@ -40,8 +40,12 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 - [x] Object oriented JS - practice
     - [codewars profile](https://www.codewars.com/users/Shramkoweb)
     - [Object Oriented JS](./9/classroom.udacity.com_courses_ud015.png)
-- [ ] OOP exercise - practice
-- [ ] Offline Web Applications
-- [ ] Memory pair game — real project!
-- [ ] Website Performance Optimization
+- [x] OOP exercise - practice
+    - [demo page](https://shramkoweb.github.io/frontend-nanodegree-arcade-game/)
+    - [source code](https://github.com/Shramkoweb/frontend-nanodegree-arcade-game)
+- [ ] Offline Web Applications(optional)
+- [x] Memory pair game — real project!
+    - [demo](https://shramkoweb.github.io/memory-game/)
+    - [source code](https://github.com/Shramkoweb/memory-game)
+- [ ] Website Performance Optimization(optional)
 - [ ] Friends App - real project!
