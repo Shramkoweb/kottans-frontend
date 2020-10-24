@@ -48,4 +48,6 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
     - [demo](https://shramkoweb.github.io/memory-game/)
     - [source code](https://github.com/Shramkoweb/memory-game)
 - [ ] Website Performance Optimization(optional)
-- [ ] Friends App - real project!
+- [x] Friends App - real project!
+    - [demo](https://shramkoweb.github.io/friends-app/)
+    - [source code](https://github.com/Shramkoweb/friends-app)
