@@ -51,3 +51,6 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 - [x] Friends App - real project!
     - [demo](https://shramkoweb.github.io/friends-app/)
     - [source code](https://github.com/Shramkoweb/friends-app)
+
+
+Created by [Serhii Shramko](https://shramko.dev/). This is my personal website and blog. 
